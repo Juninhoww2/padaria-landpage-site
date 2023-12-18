@@ -1,0 +1,834 @@
+.peachy-pup-bakery {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .peachy-pup-bakery .div {
+    background-color: #ffffff;
+    width: 1903px;
+    height: 4999px;
+    position: relative;
+  }
+  
+  .peachy-pup-bakery .overlap {
+    position: absolute;
+    width: 1903px;
+    height: 840px;
+    top: 840px;
+    left: 0;
+  }
+  
+  .peachy-pup-bakery .rectangle {
+    position: absolute;
+    width: 689px;
+    height: 840px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    transform: rotate(180deg);
+  }
+  
+  .peachy-pup-bakery .rectangle-2 {
+    position: absolute;
+    width: 1214px;
+    height: 840px;
+    top: 0;
+    left: 689px;
+    background-color: #c88a40;
+  }
+  
+  .peachy-pup-bakery .mask-group {
+    position: absolute;
+    width: 689px;
+    height: 840px;
+    top: 0;
+    left: 0;
+  }
+  
+  .peachy-pup-bakery .how-we-work {
+    position: absolute;
+    top: 49px;
+    left: 922px;
+    font-family: "Sen", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 144px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: 138.2px;
+  }
+  
+  .peachy-pup-bakery .lorem-ipsum-is {
+    width: 277px;
+    height: 156px;
+    top: 169px;
+    left: 382px;
+    font-weight: 600;
+    color: #c88a40;
+    font-size: 18px;
+    line-height: 26px;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    letter-spacing: 0;
+  }
+  
+  .peachy-pup-bakery .group {
+    position: absolute;
+    width: 197px;
+    height: 60px;
+    top: 730px;
+    left: 854px;
+  }
+  
+  .peachy-pup-bakery .overlap-group {
+    position: relative;
+    width: 195px;
+    height: 60px;
+    background-color: #fcba0f;
+    border-radius: 30px;
+  }
+  
+  .peachy-pup-bakery .contact-us {
+    position: absolute;
+    height: 24px;
+    top: 18px;
+    left: 38px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 900;
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .peachy-pup-bakery .img {
+    position: absolute;
+    width: 270px;
+    height: 304px;
+    top: 376px;
+    left: 1252px;
+    object-fit: cover;
+  }
+  
+  .peachy-pup-bakery .rectangle-3 {
+    position: absolute;
+    width: 270px;
+    height: 304px;
+    top: 376px;
+    left: 962px;
+    object-fit: cover;
+  }
+  
+  .peachy-pup-bakery .rectangle-4 {
+    position: absolute;
+    width: 270px;
+    height: 304px;
+    top: 376px;
+    left: 672px;
+    object-fit: cover;
+  }
+  
+  .peachy-pup-bakery .rectangle-5 {
+    position: absolute;
+    width: 270px;
+    height: 304px;
+    top: 376px;
+    left: 382px;
+    object-fit: cover;
+  }
+  
+  .peachy-pup-bakery .overlap-2 {
+    position: absolute;
+    width: 1903px;
+    height: 840px;
+    top: 1680px;
+    left: 0;
+  }
+  
+  .peachy-pup-bakery .rectangle-6 {
+    position: absolute;
+    width: 689px;
+    height: 840px;
+    top: 0;
+    left: 1214px;
+    background-color: #ffffff;
+    transform: rotate(180deg);
+  }
+  
+  .peachy-pup-bakery .rectangle-7 {
+    position: absolute;
+    width: 1214px;
+    height: 840px;
+    top: 0;
+    left: 0;
+    background-color: #c88a40;
+  }
+  
+  .peachy-pup-bakery .about-us {
+    position: absolute;
+    top: 49px;
+    left: 352px;
+    font-family: "Sen", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 144px;
+    letter-spacing: 0;
+    line-height: 138.2px;
+  }
+  
+  .peachy-pup-bakery .text-wrapper {
+    width: 508px;
+    top: 375px;
+    left: 352px;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 18px;
+    line-height: 26px;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    letter-spacing: 0;
+  }
+  
+  .peachy-pup-bakery .overlap-wrapper {
+    position: absolute;
+    width: 197px;
+    height: 60px;
+    top: 730px;
+    left: 352px;
+  }
+  
+  .peachy-pup-bakery .rectangle-8 {
+    position: absolute;
+    width: 642px;
+    height: 740px;
+    top: 50px;
+    left: 910px;
+  }
+  
+  .peachy-pup-bakery .overlap-3 {
+    position: absolute;
+    width: 1903px;
+    height: 910px;
+    top: 2520px;
+    left: 0;
+  }
+  
+  .peachy-pup-bakery .rectangle-9 {
+    position: absolute;
+    width: 1903px;
+    height: 910px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    transform: rotate(180deg);
+  }
+  
+  .peachy-pup-bakery .services {
+    position: absolute;
+    top: 57px;
+    left: 594px;
+    font-family: "Sen", Helvetica;
+    font-weight: 800;
+    color: #c88a40;
+    font-size: 144px;
+    letter-spacing: 0;
+    line-height: 138.2px;
+    white-space: nowrap;
+  }
+  
+  .peachy-pup-bakery .overlap-group-wrapper {
+    position: absolute;
+    width: 197px;
+    height: 60px;
+    top: 800px;
+    left: 854px;
+  }
+  
+  .peachy-pup-bakery .group-2 {
+    position: absolute;
+    width: 1199px;
+    height: 504px;
+    top: 246px;
+    left: 352px;
+  }
+  
+  .peachy-pup-bakery .div-wrapper {
+    position: absolute;
+    width: 389px;
+    height: 504px;
+    top: 0;
+    left: 0;
+  }
+  
+  .peachy-pup-bakery .overlap-group-2 {
+    width: 385px;
+    height: 504px;
+    border: 1px solid;
+    border-color: #ffd8ab;
+    position: relative;
+    background-color: #ffffff;
+    border-radius: 30px;
+  }
+  
+  .peachy-pup-bakery .p {
+    position: absolute;
+    width: 325px;
+    top: 353px;
+    left: 29px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: var(--gray-1);
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 20px;
+  }
+  
+  .peachy-pup-bakery .text-wrapper-2 {
+    position: absolute;
+    width: 325px;
+    top: 319px;
+    left: 29px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 900;
+    color: #c88a40;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 24px;
+  }
+  
+  .peachy-pup-bakery .rectangle-10 {
+    position: absolute;
+    width: 385px;
+    height: 290px;
+    top: -1px;
+    left: -1px;
+    object-fit: cover;
+  }
+  
+  .peachy-pup-bakery .group-3 {
+    position: absolute;
+    width: 389px;
+    height: 504px;
+    top: 0;
+    left: 407px;
+  }
+  
+  .peachy-pup-bakery .group-4 {
+    position: absolute;
+    width: 389px;
+    height: 504px;
+    top: 0;
+    left: 814px;
+  }
+  
+  .peachy-pup-bakery .overlap-4 {
+    position: absolute;
+    width: 1903px;
+    height: 898px;
+    top: 3430px;
+    left: 0;
+  }
+  
+  .peachy-pup-bakery .rectangle-11 {
+    position: absolute;
+    width: 1903px;
+    height: 898px;
+    top: 0;
+    left: 0;
+    background-color: #c88a40;
+    transform: rotate(180deg);
+  }
+  
+  .peachy-pup-bakery .mask-group-2 {
+    position: absolute;
+    width: 1903px;
+    height: 898px;
+    top: 0;
+    left: 0;
+  }
+  
+  .peachy-pup-bakery .group-5 {
+    position: absolute;
+    width: 516px;
+    height: 192px;
+    top: 304px;
+    left: 415px;
+  }
+  
+  .peachy-pup-bakery .overlap-group-3 {
+    width: 512px;
+    height: 192px;
+    position: relative;
+    background-color: #ffffff;
+    border-radius: 30px;
+  }
+  
+  .peachy-pup-bakery .group-6 {
+    position: absolute;
+    width: 114px;
+    height: 18px;
+    top: 154px;
+    left: 50px;
+  }
+  
+  .peachy-pup-bakery .lorem-ipsum-is-2 {
+    width: 412px;
+    top: 54px;
+    left: 50px;
+    font-weight: 400;
+    color: var(--gray-1);
+    font-size: 14px;
+    line-height: 20px;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    letter-spacing: 0;
+  }
+  
+  .peachy-pup-bakery .text-wrapper-3 {
+    position: absolute;
+    width: 325px;
+    top: 20px;
+    left: 50px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 900;
+    color: #c88a40;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 24px;
+  }
+  
+  .peachy-pup-bakery .group-7 {
+    position: absolute;
+    width: 516px;
+    height: 192px;
+    top: 546px;
+    left: 415px;
+  }
+  
+  .peachy-pup-bakery .group-8 {
+    position: absolute;
+    width: 516px;
+    height: 192px;
+    top: 304px;
+    left: 977px;
+  }
+  
+  .peachy-pup-bakery .group-9 {
+    position: absolute;
+    width: 516px;
+    height: 192px;
+    top: 546px;
+    left: 977px;
+  }
+  
+  .peachy-pup-bakery .testymonials {
+    position: absolute;
+    top: 85px;
+    left: 375px;
+    font-family: "Sen", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 144px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 138.2px;
+    white-space: nowrap;
+  }
+  
+  .peachy-pup-bakery .group-10 {
+    position: absolute;
+    width: 197px;
+    height: 60px;
+    top: 788px;
+    left: 854px;
+  }
+  
+  .peachy-pup-bakery .overlap-5 {
+    position: absolute;
+    width: 1903px;
+    height: 554px;
+    top: 4328px;
+    left: 0;
+  }
+  
+  .peachy-pup-bakery .rectangle-12 {
+    position: absolute;
+    width: 1903px;
+    height: 554px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    transform: rotate(180deg);
+  }
+  
+  .peachy-pup-bakery .contact-us-2 {
+    position: absolute;
+    top: 49px;
+    left: 505px;
+    font-family: "Sen", Helvetica;
+    font-weight: 800;
+    color: #c88a40;
+    font-size: 144px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 138.2px;
+    white-space: nowrap;
+  }
+  
+  .peachy-pup-bakery .group-11 {
+    position: absolute;
+    width: 788px;
+    height: 266px;
+    top: 238px;
+    left: 558px;
+  }
+  
+  .peachy-pup-bakery .group-12 {
+    position: absolute;
+    width: 374px;
+    height: 266px;
+    top: 0;
+    left: 0;
+  }
+  
+  .peachy-pup-bakery .rectangle-13 {
+    position: absolute;
+    width: 374px;
+    height: 56px;
+    top: 0;
+    left: 0;
+    background-color: #ffd39f;
+    border-radius: 61px;
+  }
+  
+  .peachy-pup-bakery .rectangle-14 {
+    position: absolute;
+    width: 374px;
+    height: 56px;
+    top: 70px;
+    left: 0;
+    background-color: #ffd39f;
+    border-radius: 61px;
+  }
+  
+  .peachy-pup-bakery .rectangle-15 {
+    position: absolute;
+    width: 374px;
+    height: 56px;
+    top: 140px;
+    left: 0;
+    background-color: #ffd39f;
+    border-radius: 61px;
+  }
+  
+  .peachy-pup-bakery .rectangle-16 {
+    position: absolute;
+    width: 168px;
+    height: 56px;
+    top: 210px;
+    left: 103px;
+    border-radius: 61px;
+    border: 3px solid;
+    border-color: #c88a40;
+  }
+  
+  .peachy-pup-bakery .group-13 {
+    position: absolute;
+    width: 314px;
+    height: 132px;
+    top: 30px;
+    left: 474px;
+  }
+  
+  .peachy-pup-bakery .group-14 {
+    position: absolute;
+    width: 149px;
+    height: 24px;
+    top: 0;
+    left: 0;
+  }
+  
+  .peachy-pup-bakery .text-wrapper-4 {
+    position: absolute;
+    top: 4px;
+    left: 44px;
+    font-family: "TT Hoves-Medium", Helvetica;
+    font-weight: 500;
+    color: var(--gray-1);
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .peachy-pup-bakery .img-2 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 0;
+    left: 0;
+  }
+  
+  .peachy-pup-bakery .group-15 {
+    position: absolute;
+    width: 146px;
+    height: 24px;
+    top: 54px;
+    left: 0;
+  }
+  
+  .peachy-pup-bakery .group-16 {
+    position: absolute;
+    width: 316px;
+    height: 24px;
+    top: 108px;
+    left: 0;
+  }
+  
+  .peachy-pup-bakery .rectangle-17 {
+    position: absolute;
+    width: 1903px;
+    height: 117px;
+    top: 4882px;
+    left: 0;
+    background-color: #584024;
+    transform: rotate(180deg);
+  }
+  
+  .peachy-pup-bakery .overlap-6 {
+    position: absolute;
+    width: 1903px;
+    height: 840px;
+    top: 0;
+    left: 0;
+  }
+  
+  .peachy-pup-bakery .rectangle-18 {
+    position: absolute;
+    width: 449px;
+    height: 201px;
+    top: 639px;
+    left: 0;
+    background-color: #ffffff;
+  }
+  
+  .peachy-pup-bakery .mask-group-3 {
+    position: absolute;
+    width: 449px;
+    height: 201px;
+    top: 639px;
+    left: 0;
+  }
+  
+  .peachy-pup-bakery .bx-bxl-vk {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 669px;
+    left: 388px;
+  }
+  
+  .peachy-pup-bakery .ant-design-twitter {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 789px;
+    left: 388px;
+  }
+  
+  .peachy-pup-bakery .bx-bxl-instagram-alt {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 749px;
+    left: 388px;
+  }
+  
+  .peachy-pup-bakery .brandico-facebook {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 709px;
+    left: 388px;
+  }
+  
+  .peachy-pup-bakery .ellipse {
+    position: absolute;
+    width: 1064px;
+    height: 840px;
+    top: 0;
+    left: 523px;
+    border-radius: 532px/420px;
+    background: radial-gradient(50% 50% at 50% 50%, rgb(242.25, 167.52, 79.74) 0%, rgba(228.44, 165.78, 92.33, 0) 100%);
+  }
+  
+  .peachy-pup-bakery .rectangle-19 {
+    position: absolute;
+    width: 689px;
+    height: 840px;
+    top: 0;
+    left: 1214px;
+    background-color: #ffffff;
+  }
+  
+  .peachy-pup-bakery .mask-group-4 {
+    position: absolute;
+    width: 689px;
+    height: 840px;
+    top: 0;
+    left: 1214px;
+  }
+  
+  .peachy-pup-bakery .place-your-image {
+    position: absolute;
+    width: 666px;
+    height: 413px;
+    top: 319px;
+    left: 886px;
+    object-fit: cover;
+  }
+  
+  .peachy-pup-bakery .tasty-pastries {
+    position: absolute;
+    height: 89px;
+    top: 287px;
+    left: 352px;
+    font-family: "Sen", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 74px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .peachy-pup-bakery .group-17 {
+    position: absolute;
+    width: 250px;
+    height: 68px;
+    top: 26px;
+    left: 352px;
+  }
+  
+  .peachy-pup-bakery .place-your-logo-here {
+    position: absolute;
+    width: 53px;
+    height: 52px;
+    top: 8px;
+    left: 0;
+  }
+  
+  .peachy-pup-bakery .text-wrapper-5 {
+    position: absolute;
+    width: 179px;
+    height: 68px;
+    top: 0;
+    left: 69px;
+    font-family: "Sen", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .peachy-pup-bakery .body-text {
+    position: absolute;
+    width: 467px;
+    height: 335px;
+    top: 253px;
+    left: 1070px;
+    object-fit: cover;
+  }
+  
+  .peachy-pup-bakery .mask-group-5 {
+    position: absolute;
+    width: 466px;
+    height: 335px;
+    top: 253px;
+    left: 1071px;
+  }
+  
+  .peachy-pup-bakery .lorem-ipsum-is-3 {
+    width: 552px;
+    top: 396px;
+    left: 352px;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 18px;
+    line-height: 26px;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    letter-spacing: 0;
+  }
+  
+  .peachy-pup-bakery .text-wrapper-6 {
+    position: absolute;
+    height: 26px;
+    top: 793px;
+    left: 469px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 26px;
+    white-space: nowrap;
+  }
+  
+  .peachy-pup-bakery .text-wrapper-7 {
+    position: absolute;
+    height: 26px;
+    top: 793px;
+    left: 586px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 2.7px;
+    line-height: 26px;
+    white-space: nowrap;
+  }
+  
+  .peachy-pup-bakery .group-18 {
+    position: absolute;
+    width: 196px;
+    height: 60px;
+    top: 515px;
+    left: 352px;
+  }
+  
+  .peachy-pup-bakery .overlap-7 {
+    position: relative;
+    width: 194px;
+    height: 60px;
+    background-color: #fcba0f;
+    border-radius: 30px;
+  }
+  
+  .peachy-pup-bakery .text-wrapper-8 {
+    position: absolute;
+    height: 24px;
+    top: 18px;
+    left: 53px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 900;
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .peachy-pup-bakery .star {
+    position: absolute;
+    width: 182px;
+    height: 181px;
+    top: 608px;
+    left: 1123px;
+  }
+  
